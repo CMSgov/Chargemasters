@@ -1,5 +1,5 @@
 # Chargemasters
-**The Chargemaster.csv will come with the following headers:**
+**The [Chargemaster.csv](https://github.com/CMSgov/Chargemasters/blob/master/Chargemaster.csv) will come with the following headers:**
 
 CCN - CCN of the hospital (allows for one file to detail several hospitals or sub-facilities)  
 NPI - NPI of the hospital (allows for one file to detail several hospitals or sub-facilities)  
