@@ -7,7 +7,7 @@ HPID - "master" if this is the Charge data is the "master", otherwise this is th
 Charge_Code - The internally specified Charge Code  
 Charge_Code_Description - A short clinical description of the charge without abbreviations whenever possible  
 Code_Source - HCPCS/CPT/ICD Procedure/DRG  
-Code_Version - CPT is currently '4' ICD is currently '10' etc etc.  
+Code_Version - CPT is currently '4' ICD is currently '10'.
 Code - The actual HCPCS or CPT or DRG etc  
-Price - The dollars and cents charged, without commas.. so 1500.00 not "1,500.00"  
+Price - The dollars and cents charged, without commas. so, 1500.00 not "1,500.00"  
 Price_Date - The Date this price was released in MM-DD-YYYY format  
